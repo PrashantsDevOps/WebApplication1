@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VSApps\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "D:\\VSApps2\\PrashantsDevOps\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "D:\\VSApps\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "D:\\VSApps2\\PrashantsDevOps\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VSApps\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "D:\\VSApps2\\PrashantsDevOps\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "D:\\VSApps\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
-        "packagesPath": "C:\\Users\\prash\\.nuget\\packages\\",
-        "outputPath": "D:\\VSApps\\WebApplication1\\WebApplication1\\obj\\",
+        "projectPath": "D:\\VSApps2\\PrashantsDevOps\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "packagesPath": "C:\\Users\\megha\\.nuget\\packages\\",
+        "outputPath": "D:\\VSApps2\\PrashantsDevOps\\WebApplication1\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\prash\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\megha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
